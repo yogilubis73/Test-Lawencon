@@ -1,6 +1,7 @@
+# NOTE : Mohon ditunggu ketika data masih kosong, dikarenakan masih menunggu load data yang terbilang cukup banyak. dan untuk Search, sort dan pagination masih belum berfungsi 
+
 # Getting Started with Create React App
-NOTE : Mohon ditunggu ketika data masih kosong, dikarenakan masih menunggu load data yang terbilang cukup banyak. dan untuk
-Search, sort dan pagination masih belum berfungsi 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
