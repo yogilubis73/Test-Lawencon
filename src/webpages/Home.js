@@ -1,6 +1,7 @@
 import axios from "axios";
 import React from "react";
 
+
 class Home extends React.Component{
     constructor(){
         super()
@@ -39,7 +40,7 @@ class Home extends React.Component{
                             <h3 class="text-secondary">Coin List</h3>
                             <div class="row">
                                 <div class="col-md-12">
-                                    <table class="table table-striped">
+                                    <table class="table table-striped" id="dataTable">
                                         <thead>
                                             <tr>
                                                 <th>Name</th>
